@@ -1,0 +1,4 @@
+﻿  Project 1.cpp
+C:\Users\Admin\Music\Nhập môn mã hóa mật mã\DoAn1\Project 1\Project 1.cpp(480,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Music\Nhập môn mã hóa mật mã\DoAn1\Project 1\Project 1.cpp(740,32): error C2039: 'isPrime': is not a member of 'BigInt'
+C:\Users\Admin\Music\Nhập môn mã hóa mật mã\DoAn1\Project 1\Project 1.cpp(9,7): message : see declaration of 'BigInt'

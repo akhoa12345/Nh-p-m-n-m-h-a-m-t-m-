@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Admin\Music\Nhập môn mã hóa mật mã\Do_An_2\Bai4\Source.cpp(519,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Music\Nhập môn mã hóa mật mã\Do_An_2\Bai4\Source.cpp(360): warning C4717: 'BigInt::operator>=': recursive on all control paths, function will cause runtime stack overflow
+Source.obj : error LNK2019: unresolved external symbol "public: static class BigInt __cdecl BigInt::modularPower(class BigInt const &,class BigInt const &,class BigInt const &)" (?modularPower@BigInt@@SA?AV1@AEBV1@00@Z) referenced in function "public: bool __cdecl ElGamalVerifier::verify(class BigInt const &,class BigInt const &,class BigInt const &)" (?verify@ElGamalVerifier@@QEAA_NAEBVBigInt@@00@Z)
+C:\Users\Admin\Music\Nhập môn mã hóa mật mã\Do_An_2\x64\Debug\Bai4.exe : fatal error LNK1120: 1 unresolved externals

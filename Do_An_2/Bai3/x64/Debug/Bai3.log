@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2019: unresolved external symbol "public: static class BigInt __cdecl BigInt::modularPower(class BigInt const &,class BigInt const &,class BigInt const &)" (?modularPower@BigInt@@SA?AV1@AEBV1@00@Z) referenced in function "public: class BigInt __cdecl ElGamal::decrypt(class std::tuple<class BigInt,class BigInt> const &)const " (?decrypt@ElGamal@@QEBA?AVBigInt@@AEBV?$tuple@VBigInt@@V1@@std@@@Z)
+C:\Users\Admin\Music\Nhập môn mã hóa mật mã\Do_An_2\x64\Debug\Bai3.exe : fatal error LNK1120: 1 unresolved externals

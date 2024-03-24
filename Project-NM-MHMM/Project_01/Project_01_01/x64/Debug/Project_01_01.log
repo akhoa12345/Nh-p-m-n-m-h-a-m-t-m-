@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Admin\Music\Project-NM-MHMM\Project_01\Project_01_01\Main.cpp(196,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Music\Project-NM-MHMM\Project_01\Project_01_01\Main.cpp(406,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Music\Project-NM-MHMM\Project_01\Project_01_01\Main.cpp(408,62): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Music\Project-NM-MHMM\Project_01\Project_01_01\Main.cpp(409,58): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project_01_01.vcxproj -> C:\Users\Admin\Music\Nhập môn mã hóa mật mã\HelloWorld\x64\Debug\Project_01_01.exe
